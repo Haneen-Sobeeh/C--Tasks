@@ -1,0 +1,7 @@
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\bin\Debug\Task(9).exe.config
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\bin\Debug\Task(9).exe
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\bin\Debug\Task(9).pdb
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\obj\Debug\Task(9).csproj.AssemblyReference.cache
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\obj\Debug\Task(9).csproj.CoreCompileInputs.cache
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\obj\Debug\Task(9).exe
+C:\Users\Haneen\Desktop\C#\Task(9)\Task(9)\obj\Debug\Task(9).pdb
